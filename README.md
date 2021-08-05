@@ -13,8 +13,6 @@ About me: Now, i'm a UI Designer with extensive experience in Adobe software sui
 - 📫 How to reach me **alexandre.shyjada@ufba.br**
 
 <p align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="javascript" width="20" height="20"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="javascript" width="20" height="20"/>
   <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="javascript" width="20" height="20"/>
   <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="typescript"  width="20" height="20"/>
   <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="html5"  width="20" height="20"/>
