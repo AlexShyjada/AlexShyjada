@@ -7,13 +7,16 @@ About me: Now, i'm a UI Designer with extensive experience in Adobe software sui
 
 - 💚 Communication Manager at [Info Jr UFBA](https://www.infojr.com.br/)
 - 💻 Intern at Salvador city hall ([SALTUR](http://saltur.salvador.ba.gov.br/)) in web front-end development
-- 👨🏽‍💻 All of my projects are available at my [Behance profile](https://www.behance.net/alexandreshyjada/projects)
-- 📚 Now i'm learning React and Node!
+- 👨🏽‍💻 All of my projects are available at my [website](https://www.alexshyjada.com/)
+- 📚 Now i'm learning Vue.js!
 - 💪🏽 I’m passionate about network!
 - 📫 How to reach me **alexandre.shyjada@ufba.br**
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="20" height="20"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="javascript" width="20" height="20"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="javascript" width="20" height="20"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="javascript" width="20" height="20"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="typescript"  width="20" height="20"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="html5"  width="20" height="20"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" alt="vue.js" width="20" height="20"/>
 </p>
