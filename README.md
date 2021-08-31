@@ -4,16 +4,16 @@
 
 Sou um UI Designer que ama codar 👨‍💻🥰
 
-- 💻 **Faço estagio como desenvolvedor Front-End na ([SALTUR](http://saltur.salvador.ba.gov.br/))**
+💻 **Faço estagio como desenvolvedor Front-End na ([SALTUR](http://saltur.salvador.ba.gov.br/))**
 
-- 💚 **Faço parte da [Info Jr UFBA](https://www.infojr.com.br/)**
+💚 **Faço parte da [Info Jr UFBA](https://www.infojr.com.br/)**
 
-- 👨🏽‍💻 **Conheça meus projetos de UI design no meu [website](https://www.alexshyjada.com/)**
+👨🏽‍💻 **Conheça meus projetos de UI design no meu [website](https://www.alexshyjada.com/)**
 
-- 📚 **Estudando Vue.js com Typescript!**
+📚 **Estudando Vue.js com Typescript!**
 
-- 📫 **Se quiser falar comigo, pode entrar em contato por alexandreshyjada@gmail.com**
-- 
+📫 **Se quiser falar comigo, pode entrar em contato por alexandreshyjada@gmail.com**
+ 
 
 <p align="left">
   <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="javascript" width="20" height="20"/>
