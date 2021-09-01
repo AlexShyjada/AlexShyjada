@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-💻 **Faço estagio como desenvolvedor Front-End na ([SALTUR](http://saltur.salvador.ba.gov.br/))**
+💻 **Faço estagio como desenvolvedor Front-End na [SALTUR](http://saltur.salvador.ba.gov.br/)**
 
 💚 **Faço parte da [Info Jr UFBA](https://www.infojr.com.br/)**
 
