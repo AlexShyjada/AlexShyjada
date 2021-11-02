@@ -8,14 +8,6 @@
 - 💬 Ask me about HTML, CSS, Javascript and UI/UX Design
 - 📫 How to reach me: [My website](https://www.alexshyjada.com/)
 
-
-
-- 👨🏽‍💻 Conheça meus projetos de UI design no meu [website](https://www.alexshyjada.com/)
-
-- 📚 Estudando 
-
-- 📫 Se quiser falar comigo, pode entrar em contato por alexandreshyjada@gmail.com
-
 <br>
 
 ## 🛠 &nbsp;Tech Stack
