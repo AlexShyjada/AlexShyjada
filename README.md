@@ -32,8 +32,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=AlexShyjada&show_icons=true&theme=vision-friendly-dark" alt="AlexShyjada's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexShyjada&layout=compact&theme=vision-friendly-dark" alt="AlexShyjada's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=AlexShyjada&show_icons=true&theme=algolia" alt="AlexShyjada's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexShyjada&layout=compact&theme=algolia" alt="AlexShyjada's most languages"/>
 </p>
 
 <br>
