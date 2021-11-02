@@ -7,7 +7,7 @@
  
 - 🌱 I’m currently learning Vue.js with [Nuxt.js](https://nuxtjs.org/) and React with [Next.js](https://nextjs.org/)
  
-- 👨‍💻 All of my projects are available at [maykbrito.dev](https://www.alexshyjada.com/)
+- 👨‍💻 All of my projects are available at [alexshyjada.com](https://www.alexshyjada.com/)
  
 - 💬 Ask me about HTML, CSS, Javascript and UI/UX Design
 
