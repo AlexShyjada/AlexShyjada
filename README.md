@@ -11,7 +11,7 @@
  
 - 💬 Ask me about HTML, CSS, Javascript and UI/UX Design
 
-- 📫 How to reach me: [My website](https://www.alexshyjada.com/#contact)
+- 📫 How to reach me: [E-mail & WhatsApp](https://www.alexshyjada.com/#contact)
 
 <br><br>
 
