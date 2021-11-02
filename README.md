@@ -1,22 +1,69 @@
-# Alexandre Shyjada 
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/AlexShyjada/a4d7c9180c18fdde7ed6e6eaa8d2d2bb/raw/fdd4e16aa6c71df417220556ea23e997f0d4904d/githubcard.svg"/>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Alexandre Shyjada</h1>
 
-## Sobre mim
+- 🔭 I’m currently working on [SALTUR](http://saltur.salvador.ba.gov.br/)
+- 🔥 Web Developer & Instructor focused on UI/UX Design on [Info Jr UFBA](http://site.infojr.com.br/)
+- 🌱 I’m currently learning Vue.js with [Nuxt.js](https://nuxtjs.org/) and React with [Next.js](https://nextjs.org/)
+- 👨‍💻 All of my projects are available at [maykbrito.dev](https://www.alexshyjada.com/)
+- 💬 Ask me about HTML, CSS, Javascript and UI/UX Design
+- 📫 How to reach me: [My website](https://www.alexshyjada.com/)
 
-💻 **Faço estagio como desenvolvedor Front-End na [SALTUR](http://saltur.salvador.ba.gov.br/)**
 
-💚 **Faço parte da [Info Jr UFBA](https://www.infojr.com.br/)**
 
-👨🏽‍💻 **Conheça meus projetos de UI design no meu [website](https://www.alexshyjada.com/)**
+- 👨🏽‍💻 Conheça meus projetos de UI design no meu [website](https://www.alexshyjada.com/)
 
-📚 **Estudando Vue.js com Typescript!**
+- 📚 Estudando 
 
-📫 **Se quiser falar comigo, pode entrar em contato por alexandreshyjada@gmail.com**
- 
+- 📫 Se quiser falar comigo, pode entrar em contato por alexandreshyjada@gmail.com
+
+<br>
+
+## 🛠 &nbsp;Tech Stack
+
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Javascript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
+![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
+![Styled Components](https://img.shields.io/badge/-Styled%20Components-05122A?style=flat&logo=styledcomponents)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Next](https://img.shields.io/badge/-Next-05122A?style=flat&logo=next.js)&nbsp;
+![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vue.js)&nbsp;
+![Nuxt](https://img.shields.io/badge/-Nuxt-05122A?style=flat&logo=nuxt.js)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+
+<br>
+
+## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="javascript" width="20" height="20"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="typescript"  width="20" height="20"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" alt="vue.js" width="20" height="20"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="html5"  width="20" height="20"/>  
-  <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="vue.js" width="20" height="20"/> 
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=AlexShyjada&show_icons=true&theme=vision-friendly-dark" alt="AlexShyjada's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexShyjada&layout=compact&theme=vision-friendly-dark" alt="AlexShyjada's most languages"/>
+</p>
+
+<br>
+
+## 😎 &nbsp;Social Links
+
+<p align="left" style="background:yellow">
+ 
+ <a href="https://www.behance.net/alexshyjada" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Behance-05122A?style=flat&logo=behance" alt="behance"/>
+</a>
+ 
+<a href="https://dribbble.com/AlexShyjada" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Dribbble-05122A?style=flat&logo=dribbble" alt="dribbble"/>
+</a>
+
+<a href="https://www.linkedin.com/in/alexshyjada/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+ 
+<a href="https://www.instagram.com/alexshyjada/" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+
 </p>
