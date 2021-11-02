@@ -8,7 +8,7 @@
 - 💬 Ask me about HTML, CSS, Javascript and UI/UX Design
 - 📫 How to reach me: [My website](https://www.alexshyjada.com/)
 
-<br>
+<br><br>
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -27,7 +27,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 
-<br>
+<br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
@@ -36,7 +36,7 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexShyjada&layout=compact&theme=algolia" alt="AlexShyjada's most languages"/>
 </p>
 
-<br>
+<br><br>
 
 ## 😎 &nbsp;Social Links
 
