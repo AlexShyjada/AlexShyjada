@@ -2,10 +2,15 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Alexandre Shyjada</h1>
 
 - 🔭 I’m currently working on [SALTUR](http://saltur.salvador.ba.gov.br/)
+
 - 🔥 Web Developer & Instructor focused on UI/UX Design on [Info Jr UFBA](http://site.infojr.com.br/)
+ 
 - 🌱 I’m currently learning Vue.js with [Nuxt.js](https://nuxtjs.org/) and React with [Next.js](https://nextjs.org/)
+ 
 - 👨‍💻 All of my projects are available at [maykbrito.dev](https://www.alexshyjada.com/)
+ 
 - 💬 Ask me about HTML, CSS, Javascript and UI/UX Design
+
 - 📫 How to reach me: [My website](https://www.alexshyjada.com/)
 
 <br><br>
@@ -27,7 +32,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 
-<br><br>
+<br><br><br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
