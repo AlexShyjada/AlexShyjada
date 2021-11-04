@@ -56,11 +56,11 @@
 </a>
 
 <a href="https://www.linkedin.com/in/alexshyjada/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-alexshyjada-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
  
 <a href="https://www.instagram.com/alexshyjada/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=instagram" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/-alexshyjada-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 
 </p>
