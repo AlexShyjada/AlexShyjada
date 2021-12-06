@@ -1,7 +1,7 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/AlexShyjada/a4d7c9180c18fdde7ed6e6eaa8d2d2bb/raw/c86fef4cc2de271d75db261901dbfb9c96a51284/githubcard.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Alexandre Shyjada</h1>
 
-- 🔭 I’m currently working on [SALTUR](http://saltur.salvador.ba.gov.br/)
+- 🔭 I’m currently working on [Klutch tecnologias](https://www.klutch.com.br/)
 
 - 🔥 Web Developer & Instructor focused on UI/UX Design on [Info Jr UFBA](http://site.infojr.com.br/)
  
