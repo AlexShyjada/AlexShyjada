@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Klutch tecnologia](https://www.klutch.com.br/)
 
-- 🔥 Web Developer & Instructor focused on UI/UX Design on [Info Jr UFBA](http://site.infojr.com.br/)
+- 🔥 Commercial director on [Info Jr UFBA](http://site.infojr.com.br/)
  
 - 🌱 I’m currently learning Vue.js with [Nuxt.js](https://nuxtjs.org/) and React with [Next.js](https://nextjs.org/)
  
