@@ -7,7 +7,7 @@
  
 - 👨‍💻 All of my projects are available at [alexshyjada.com](https://www.alexshyjada.com/)
  
-- 💬 Ask me about HTML, CSS, Javascript and UI/UX Design
+- 💬 Ask me about UI/UX Design
 
 - 📫 How to reach me: [E-mail & WhatsApp](https://www.alexshyjada.com/#contact)
 
