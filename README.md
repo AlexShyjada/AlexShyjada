@@ -1,4 +1,3 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/AlexShyjada/a4d7c9180c18fdde7ed6e6eaa8d2d2bb/raw/c86fef4cc2de271d75db261901dbfb9c96a51284/githubcard.svg"/>
 <h1 align="left">Hi, I'm Alexandre Shyjada</h1>
 
 - 🔥 Commercial director on [Info Jr UFBA](http://site.infojr.com.br/)
