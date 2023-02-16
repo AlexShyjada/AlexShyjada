@@ -1,14 +1,10 @@
 <h1 align="left">Hi, I'm Alexandre Shyjada</h1>
 
-- 🔥 Commercial director on [Info Jr UFBA](http://site.infojr.com.br/)
+- 🔥 Product Designer on [ServiceNet](https://www.linkedin.com/company/servicenet---tecnologias-em-arrecada-o-e-servi-os-banc-rios/mycompany/)
  
 - 🌱 I’m currently learning Vue.js with [Nuxt.js](https://nuxtjs.org/) and React with [Next.js](https://nextjs.org/)
  
-- 👨‍💻 All of my projects are available at [alexshyjada.com](https://www.alexshyjada.com/)
- 
 - 💬 Ask me about UI/UX Design
-
-- 📫 How to reach me: [E-mail & WhatsApp](https://www.alexshyjada.com/#contact)
 
 <br><br>
 
@@ -23,8 +19,6 @@
 ![Styled Components](https://img.shields.io/badge/-Styled%20Components-05122A?style=flat&logo=styledcomponents)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Next](https://img.shields.io/badge/-Next-05122A?style=flat&logo=next.js)&nbsp;
-![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vue.js)&nbsp;
-![Nuxt](https://img.shields.io/badge/-Nuxt-05122A?style=flat&logo=nuxt.js)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
